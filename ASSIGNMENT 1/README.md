@@ -6,4 +6,6 @@
 ![image](https://github.com/kimchisteww/SCARA_G14_Assignment_2024/assets/157703948/42bce63c-b931-4cd9-8ca0-98c3db947b78)
 
 1.1 Spherical Manipulator (Modern Variant) with parametric table
-![image](https://github.com/kimchisteww/SCARA_G14_Assignment_2024/assets/157703948/25144de8-2212-4fcf-9a81-5104da4763fa)
+![image](https://github.com/kimchisteww/SCARA_G14_Assignment_2024/assets/157703948/493fd4ff-9205-498f-aca8-0d38520385cd)
+
+
