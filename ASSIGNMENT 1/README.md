@@ -15,4 +15,8 @@
 2.1 SCARA - PRR Variant with parametric table
 ![image](https://github.com/kimchisteww/SCARA_G14_Assignment_2024/assets/157703948/edfda658-942b-4c76-a24c-859cd92b6c0a)
 
-3.1 Cartesian Manipulator
+3.0 Cartesian Manipulator
+![image](https://github.com/kimchisteww/SCARA_G14_Assignment_2024/assets/157703948/399269f6-de19-4639-a8b3-9a1b1db087a6)
+
+3.2 Cartesian MAnipulator with parametric table
+![image](https://github.com/kimchisteww/SCARA_G14_Assignment_2024/assets/157703948/f33a4ab1-e1a4-4e74-821d-070baec0029b)
