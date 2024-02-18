@@ -22,7 +22,11 @@
 ![image](https://github.com/kimchisteww/SCARA_G14_Assignment_2024/assets/157703948/f33a4ab1-e1a4-4e74-821d-070baec0029b)
 
 This will serve as the repository for Assignment 1 of:
+
 Project- Amores, Shawn 
+
 Project - Lirio
+
 Project "limot ako" - Potestades, Tristan R. (Stanracelis)
+
 Project - Gumapac
