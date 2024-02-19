@@ -29,4 +29,4 @@ Project - Lirio
 
 Project "limot ako" - Potestades, Tristan R. (Stanracelis)
 
-Project - Gumapac, Emmanuel B. (kimchisteww)
+Project "Programmer" - Gumapac, Emmanuel B. (kimchisteww)
