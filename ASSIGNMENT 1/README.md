@@ -27,6 +27,6 @@ Project- Amores, Shawn
 
 Project - Lirio
 
-Project "limot ako" - Potestades, Tristan R. (Stanracelis)
+Project - Potestades, Tristan R. (Stanracelis)
 
 Project "Programmer" - Gumapac, Emmanuel B. (kimchisteww)
